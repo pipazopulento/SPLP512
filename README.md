@@ -1,9 +1,7 @@
 # SPLP512
-Semi split low profile 5x12 Mechanical keyboard 
+Semi split low profile 5x12 Mechanical keyboard
 
-Probably there is a few keyboards like this out there but I prefer to make my own.
-As someone who has a sofle keyboard and like it a lot i wanted to mantain the number and order of keys
-but in a more simetrical layout and using just one pcb.
+Probably there is a few keyboards like this out there but I prefer to make my own. As someone who has a sofle keyboard and like it a lot i wanted to mantain the number and order of keys but in a more simetrical layout and using just one pcb.
 
 As microcontroller uses a pro micro
 
